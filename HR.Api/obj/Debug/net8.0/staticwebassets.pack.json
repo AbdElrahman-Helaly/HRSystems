@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\FORMAT\\Downloads\\HR-API-main (1)\\HR.Api\\wwwroot\\images\\README.md",
+      "PackagePath": "staticwebassets\\images\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\FORMAT\\Downloads\\HR-API-main (1)\\HR.Api\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\FORMAT\\Downloads\\HR-API-main (1)\\HR.Api\\wwwroot\\uploads\\profiles\\1522df50-6749-4997-b264-af2a698cb057_20251224105428.png",
+      "PackagePath": "staticwebassets\\uploads\\profiles\\1522df50-6749-4997-b264-af2a698cb057_20251224105428.png"
+    },
+    {
+      "Id": "C:\\Users\\FORMAT\\Downloads\\HR-API-main (1)\\HR.Api\\wwwroot\\uploads\\profiles\\e6915619-b53d-4db8-97d6-7247b9aee35f_20260119094828.png",
+      "PackagePath": "staticwebassets\\uploads\\profiles\\e6915619-b53d-4db8-97d6-7247b9aee35f_20260119094828.png"
+    },
+    {
+      "Id": "C:\\Users\\FORMAT\\Downloads\\HR-API-main (1)\\HR.Api\\wwwroot\\uploads\\profiles\\fcfd3658-5e7f-40be-8f94-2354f522adcd_20251220135357.png",
+      "PackagePath": "staticwebassets\\uploads\\profiles\\fcfd3658-5e7f-40be-8f94-2354f522adcd_20251220135357.png"
+    },
+    {
+      "Id": "C:\\Users\\FORMAT\\Downloads\\HR-API-main (1)\\HR.Api\\wwwroot\\uploads\\profiles\\fcfd3658-5e7f-40be-8f94-2354f522adcd_20251223155515.png",
+      "PackagePath": "staticwebassets\\uploads\\profiles\\fcfd3658-5e7f-40be-8f94-2354f522adcd_20251223155515.png"
+    },
+    {
+      "Id": "C:\\Users\\FORMAT\\Downloads\\HR-API-main (1)\\HR.Api\\wwwroot\\users\\abdelrahman_helaly\\files\\08a78353-2b9c-48d7-a593-8cda74c405d3_privacy_policy.pdf",
+      "PackagePath": "staticwebassets\\users\\abdelrahman_helaly\\files\\08a78353-2b9c-48d7-a593-8cda74c405d3_privacy_policy.pdf"
+    },
+    {
+      "Id": "C:\\Users\\FORMAT\\Downloads\\HR-API-main (1)\\HR.Api\\wwwroot\\users\\abdelrahman_helaly\\files\\a8b59a13-3617-4720-8e13-cc424be914d0_AbdElrahman_Helaly_Junior_.Net_Developer_CV.pdf (2).pdf",
+      "PackagePath": "staticwebassets\\users\\abdelrahman_helaly\\files\\a8b59a13-3617-4720-8e13-cc424be914d0_AbdElrahman_Helaly_Junior_.Net_Developer_CV.pdf (2).pdf"
+    },
+    {
+      "Id": "C:\\Users\\FORMAT\\Downloads\\HR-API-main (1)\\HR.Api\\wwwroot\\users\\abdelrahman_helaly\\files\\b1a799c6-5de5-4fac-95bd-23a328a11358_Abdelrahman_Helaly_Junior_DotNet_Developer_CV.pdf",
+      "PackagePath": "staticwebassets\\users\\abdelrahman_helaly\\files\\b1a799c6-5de5-4fac-95bd-23a328a11358_Abdelrahman_Helaly_Junior_DotNet_Developer_CV.pdf"
+    },
+    {
+      "Id": "C:\\Users\\FORMAT\\Downloads\\HR-API-main (1)\\HR.Api\\wwwroot\\users\\be07047c-3884-4cf6-a865-d7dbccd7464c\\files\\8bf6397b-f255-4334-a746-88356a5b8c8f_MsaadMediConsult.pdf",
+      "PackagePath": "staticwebassets\\users\\be07047c-3884-4cf6-a865-d7dbccd7464c\\files\\8bf6397b-f255-4334-a746-88356a5b8c8f_MsaadMediConsult.pdf"
+    },
+    {
+      "Id": "C:\\Users\\FORMAT\\Downloads\\HR-API-main (1)\\HR.Api\\wwwroot\\users\\be07047c-3884-4cf6-a865-d7dbccd7464c\\files\\b844d04b-f95f-4aa3-adab-f714b192c25e_HR_System_Roadmap.pdf",
+      "PackagePath": "staticwebassets\\users\\be07047c-3884-4cf6-a865-d7dbccd7464c\\files\\b844d04b-f95f-4aa3-adab-f714b192c25e_HR_System_Roadmap.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HR.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HR.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HR.API.props",
+      "PackagePath": "build\\HR.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HR.API.props",
+      "PackagePath": "buildMultiTargeting\\HR.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HR.API.props",
+      "PackagePath": "buildTransitive\\HR.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
