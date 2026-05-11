@@ -1,0 +1,26 @@
+# Build output
+**/bin/
+**/obj/
+
+# IDE and user files
+.vs/
+**/.vs/
+*.user
+*.suo
+
+# Local configuration and secrets
+**/appsettings.json
+**/appsettings.*.json
+!**/appsettings.example.json
+**/*firebase-adminsdk*.json
+*.pfx
+*.key
+*.pem
+
+# Local databases and runtime artifacts
+*.db
+*.db-shm
+*.db-wal
+
+# Previous project copy kept locally only
+HR-API-main/

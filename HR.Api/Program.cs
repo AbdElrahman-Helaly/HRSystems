@@ -181,15 +181,15 @@ builder.Services.AddCors(options =>
 });
 
 var app = builder.Build();
-
+/*
 // Ensure DB is created/migrated & seed reference data (Departments, etc.)
 using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
-    await db.Database.MigrateAsync();
+   // await db.Database.MigrateAsync();
    // await DbSeeder.SeedAsync(db, CancellationToken.None);
 }
-
+*/
 // Configure the HTTP request pipeline.
 // Enable Swagger in all environments (Development and Production)
 app.UseSwagger();
